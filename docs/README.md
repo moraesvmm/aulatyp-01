@@ -1,2 +1,2 @@
-Class Typescript 01:
+#Class Typescript 01:#
     Git fundamentals
